@@ -1,0 +1,16 @@
+@import url('https://fonts.googleapis.com/css2?family=Be+Vietnam+Pro:wght@300;400;500;600;700&display=swap');
+@import "tailwindcss";
+
+@theme {
+  --font-sans: "Be Vietnam Pro", ui-sans-serif, system-ui, sans-serif;
+  --color-electric-blue: #2D7DFF;
+  --color-mint-green: #00F5D4;
+}
+
+body {
+  @apply bg-emerald-50 text-slate-900 font-sans;
+}
+
+.glass-card {
+  @apply bg-white/80 backdrop-blur-md border border-white/20 shadow-sm;
+}

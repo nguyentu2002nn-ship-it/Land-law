@@ -1,0 +1,17 @@
+{
+  "name": "Học Địa Chính - Gen Z Law",
+  "short_name": "Học Địa Chính",
+  "description": "Ứng dụng học luật đất đai phong cách Gen Z",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#2D7DFF",
+  "theme_color": "#2D7DFF",
+  "icons": [
+    {
+      "src": "/icon.svg",
+      "sizes": "512x512",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
